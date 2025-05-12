@@ -1,1 +1,6 @@
 # crud-api
+crud-api is a base folder of this project.
+
+Start server in development (dev) mode (from crud-api folder): npm run start:dev
+
+Start server in production (prod) mode (from crud-api folder): npm run start:prod
